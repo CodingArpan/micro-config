@@ -1,6 +1,6 @@
 Spring:
   application:
-    name: dev
+    name: default
 springdoc:
   api-docs:
     path: /apidocs
